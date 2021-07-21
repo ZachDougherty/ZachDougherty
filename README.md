@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Zach! 👋
+- 🔭 I’m currently working on building a recipe recommendation system for a school project.
+- 🌱 I’m currently learning the fundamentals of the GraphQL API specification and JavaScript.
+- 📫 How to reach me: 
+  - email: zachougherty@gmail.com
+  - linkedin: https://www.linkedin.com/in/zachary-dougherty/
 
 <!--
 **ZachDougherty/ZachDougherty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
