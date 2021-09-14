@@ -1,6 +1,7 @@
 ### Hi there, I'm Zach! 👋
-- 🔭 I’m currently working on building a recipe recommendation system for a school project.
-- 🌱 I’m currently learning the fundamentals of the systems design and RESTful APIs.
+- 🔭 I’m currently working on building a digital cookbook app.
+- 🌱 I’m currently learning k8s and kuttl 🦑.
+- 🇺🇸 I'm currently working as a Software Engineer at (Striveworks)[https://striveworks.us/].
 - 📫 How to reach me: 
   - email: zachougherty@gmail.com
   - linkedin: https://www.linkedin.com/in/zachary-dougherty/
