@@ -1,6 +1,6 @@
 ### Hi there, I'm Zach! 👋
 - 🔭 I’m currently working on building a digital cookbook app.
-- 🌱 I’m currently learning k8s and kuttl 🦑.
+- 🌱 I’m currently building an MLOps platform with Golang and Kubernetes ☸️.
 - 🇺🇸 I'm currently working as a Software Engineer at [Striveworks](https://striveworks.us/).
 - 📫 How to reach me: 
   - email: zachougherty@gmail.com
